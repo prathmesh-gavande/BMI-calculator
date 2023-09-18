@@ -1,0 +1,48 @@
+body{
+    background-color: #f0efef;
+}
+.container {
+    background-color: cadetblue;
+    text-align: center;
+    max-width: 500px;
+    position: relative;
+    left: 31%;
+    border: 2px ;
+    border-radius: 2%;
+    margin-top: 130px;
+    padding: 25px;
+  }
+  #height,
+  #weight {
+    height: 25px;
+    margin-top: 30px;
+  }
+  
+  #weight-guide {
+    margin-top: 25px;
+  }
+  
+  #results {
+    font-size: 35px;
+    margin-left: 90px;
+    margin-top: 20px;
+    color: rgb(242, 234, 234);
+  }
+  
+  button {
+    margin-top: 25px;
+    background-color: #f4f0f0;
+    padding: 1px 30px;
+    border-radius: 8px;
+    color: #212121;
+    text-decoration: none;
+    border: 2px solid #212121;
+  
+    font-size: 25px;
+  }
+  
+  h1 {
+    padding-top: 25px;
+    
+  }
+  
